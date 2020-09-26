@@ -50,6 +50,7 @@ Input_remaining_teacher_number_of_previously_posted_projects._resource_summary_c
 
 
 
+## Output of the Model
 
-
+![Screenshot](tensorboard.png)
 
