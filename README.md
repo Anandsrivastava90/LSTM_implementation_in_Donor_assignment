@@ -31,6 +31,9 @@ Input_remaining_teacher_number_of_previously_posted_projects._resource_summary_c
 
 # Input_seq_total_text_data:
   . Use text column('essay'), and use the Embedding layer to get word vectors. 
+  
+  
+  
 
   . Use given predefined glove word vectors, don't train any word vectors. 
 
